@@ -1,0 +1,4 @@
+language : java
+script : "mvn -f FinalProjeMertKuskurdan/pom.xml clean test verify"
+jdk: 
+   - openjdk8
